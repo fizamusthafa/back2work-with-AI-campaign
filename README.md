@@ -1,13 +1,19 @@
-# back2work
-Repository containing contents for a complete back to work campaign to start energized into 2026
+# Back to work agent - do it smarter, not harder!
+Repository containing contents for a complete back to work campaign to start energized into 2026.
+You will find:
+- agent source
+- agent icon
+- agent image
+- banner for comms
 
-Current Version: v1.0
-Revision 28.11.2025
+Current Version: v1.0 \
+Revision 28.11.2025 
 
-This agent can be set up easily and quick - only minutes to invest!
-Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
+- This agent can be set up easily and quick - only minutes to invest! Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU 
+- Pro tip: also leverage the Microsoft 365 Learning Path to build a foundation, to be found in the according repository in this acount 
 
-Pro tip: also leverage the Microsoft 365 Learning Path to build a foundation, to be found in the according repository in this acount
+<img width="303" height="304" alt="{2368D74A-2F84-4DE5-9AFA-7E71D13E4F7D}" src="https://github.com/user-attachments/assets/396fa48f-5689-4bb7-b3dc-1054f08ec14c" />
+
 
 Make a difference - set priority on accessibility - Workplace AI can help 💡
 - check out these clips on real life accessibility stories: https://www.youtube.com/playlist?list=PLtSVUgxIo6KokE3TjZBv0-blYRzAFWTFt
