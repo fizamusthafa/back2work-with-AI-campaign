@@ -12,8 +12,8 @@ Start with the "Campaign Overview" PDF in this repository to understand approach
 - digital swag
 - digital Learning Path to use in your Learning Management System
 
-**Current Version:** v1.1  
-**Last Updated:** November 30, 2025
+**Current Version:** v1.2  --> moved start date to 15.01.2026 (but you can adjust yourself in the source)
+**Last Updated:** December 1, 2025
 
 <img width="609" height="367" alt="{0E46E65A-2A4B-425E-B458-2447E1CA8FEB}" src="https://github.com/user-attachments/assets/5e0ae2a8-2a14-427b-8cff-dbe78aa5fbaf" />
 <img width="687" height="312" alt="{63C0F4AE-B175-49EE-B1EE-C5C6B9E865BF}" src="https://github.com/user-attachments/assets/f32e19dd-6dda-4346-8bbb-38e691032013" />
