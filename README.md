@@ -16,6 +16,7 @@ Start with the "Campaign Overview" PDF in this repository to understand approach
 **Last Updated:** December 1, 2025
 
 <img width="609" height="367" alt="{0E46E65A-2A4B-425E-B458-2447E1CA8FEB}" src="https://github.com/user-attachments/assets/5e0ae2a8-2a14-427b-8cff-dbe78aa5fbaf" />
+<img width="683" height="380" alt="{181B7AEE-8898-4924-9ACE-478A89856EC5}" src="https://github.com/user-attachments/assets/294ed288-6c61-4925-90cd-fabb6d4264e6" />
 <img width="687" height="312" alt="{63C0F4AE-B175-49EE-B1EE-C5C6B9E865BF}" src="https://github.com/user-attachments/assets/f32e19dd-6dda-4346-8bbb-38e691032013" />
 
 
