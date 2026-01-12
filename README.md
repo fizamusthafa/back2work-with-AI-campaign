@@ -7,9 +7,9 @@
 ### 2026 brings AI on every desk
 - Leverage the [Campaign Overview](Campaign%20Overview%20-%20Back%20to%20Work%202026%20-%20Do%20it%20smarter%20not%20harder.pdf)<br><br>
 - choose from **three deployment methods**
-  - **Agent Builder Agent** --> [raw source](https://github.com/JaysonBucket/back2work-with-AI-campaign/blob/main/Back%20to%20work%20agent%20v2.3%20-%20raw%20source.txt)
-  - Copilot **Studio declarative agent** --> [download the agent zip](https://github.com/JaysonBucket/back2work-with-AI-campaign/blob/main/Back%20to%20work%20agent%20v2.3%20-%20agent%20only.zip), then publish and pin for everyone
-  - Complete **Solution incl. automated notifications** --> [download complete solution](https://github.com/JaysonBucket/back2work-with-AI-campaign/blob/main/Back%20to%20Work%20v2.3%20-%20complete%20solution.zip) to import in Copilot Studio<br><br>
+  - **Agent Builder Agent** --> [raw agent source](Back%20to%20work%20v2.3%20-%20raw%20agent%20source.txt)
+  - Copilot **Studio declarative agent** --> [download the agent zip](Back%20to%20Work%20v2.3%20-%20agent%20only.zip), then publish and pin for everyone
+  - Complete **Solution incl. automated notifications** --> [download complete solution](Back%20to%20Work%20v2.3%20-%20complete%20solution.zip) to import in Copilot Studio<br><br>
 - use [setup & deployment](Back%20to%20Work%20Agent%20-%20Setup%20and%20Deployment%20documentation.pdf) documentation to implement solution step by step
 - less than 60 minutes from download to finish
 - incorporate the [Safe AI with Copilot Chat Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path)
@@ -27,11 +27,10 @@
 
 - Agent source files, icons, image assets, digital swag
 - complete [howto](Back%20to%20Work%20Agent%20-%20Setup%20and%20Deployment%20documentation.pdf)  including best practises, timeline and tech optimization hints
-- digital [Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path) to use in your Learning Management System
-
-<img width="400" height="241" alt="{0E46E65A-2A4B-425E-B458-2447E1CA8FEB}" src="https://github.com/user-attachments/assets/5e0ae2a8-2a14-427b-8cff-dbe78aa5fbaf" /><br>
-<img width="400" height="223" alt="{181B7AEE-8898-4924-9ACE-478A89856EC5}" src="https://github.com/user-attachments/assets/294ed288-6c61-4925-90cd-fabb6d4264e6" /><br>
-<img width="400" height="182" alt="{63C0F4AE-B175-49EE-B1EE-C5C6B9E865BF}" src="https://github.com/user-attachments/assets/f32e19dd-6dda-4346-8bbb-38e691032013" />
+- digital [Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path) to use in your Learning Management System <br><br>
+<img width="400" height="241" alt="{0E46E65A-2A4B-425E-B458-2447E1CA8FEB}" src="https://github.com/user-attachments/assets/5e0ae2a8-2a14-427b-8cff-dbe78aa5fbaf" /> <br>
+<img width="400" height="223" alt="{181B7AEE-8898-4924-9ACE-478A89856EC5}" src="https://github.com/user-attachments/assets/294ed288-6c61-4925-90cd-fabb6d4264e6" /> <br>
+<img width="400" height="182" alt="{63C0F4AE-B175-49EE-B1EE-C5C6B9E865BF}" src="https://github.com/user-attachments/assets/f32e19dd-6dda-4346-8bbb-38e691032013" /> <br><br>
 
 
 ## 🎯 Quick Start
