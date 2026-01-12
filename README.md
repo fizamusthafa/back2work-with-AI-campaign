@@ -14,8 +14,12 @@
 - less than 60 minutes from download to finish
 - incorporate the [Safe AI with Copilot Chat Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path)
 <br><br>
-<img width="400" height="264" alt="Main Interaction Experience" src="https://github.com/user-attachments/assets/b91e8927-c51a-42c1-81dd-f652c87bd6f2" /> <br><br>
-<img width="400" height="217" alt="Proactive nudge in Teams Chat" src="https://github.com/user-attachments/assets/208c36db-7d11-425d-a7ef-1f6a989fe988" /> <br><br>
+<img width="400" height="264" alt="Main Interaction Experience" src="https://github.com/user-attachments/assets/b91e8927-c51a-42c1-81dd-f652c87bd6f2" /> <br>
+*Starting page* <br><br>
+<img width="400" height="333" alt="image" src="https://github.com/user-attachments/assets/a37d6760-2765-4760-9d25-9b522f810e66" /> <br>
+*Once triggered, the daily flow starts* <br><br>
+<img width="400" height="217" alt="Proactive nudge in Teams Chat" src="https://github.com/user-attachments/assets/208c36db-7d11-425d-a7ef-1f6a989fe988" /> <br>
+*Proactive user outreach through adaptive card in teams* <br><br>
 
 
 
