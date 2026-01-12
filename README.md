@@ -9,7 +9,7 @@
 - choose from **three deployment methods**
   - **Agent Builder Agent** --> [raw agent source](Back%20to%20work%20v2.3%20-%20raw%20agent%20source.txt)
   - Copilot **Studio declarative agent** --> [download the agent zip](Back%20to%20Work%20v2.3%20-%20agent%20only.zip), then publish and pin for everyone
-  - Complete **Solution incl. automated notifications** --> [download complete solution](Back%20to%20Work%20v2.3%20-%20complete%20solution.zip) to import in Copilot Studio<br><br>
+  - Complete **Solution incl. automated notifications** --> [download complete solution](Back%20to%20Work%20v2.31%20-%20complete%20solution.zip) to import in Copilot Studio<br><br>
 - use [setup & deployment](Back%20to%20Work%20Agent%20-%20Setup%20and%20Deployment%20documentation.pdf) documentation to implement solution step by step
 - less than 60 minutes from download to finish
 - incorporate the [Safe AI with Copilot Chat Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path)
@@ -91,7 +91,7 @@ This repository contains everything needed to create a declarative agent for Cop
 
 ### Step-by-Step Process - Manual setup
 
-1. **Download** the source file [Agent source v1.1 - EN.md](./Agent%20source%20v1.1%20-%20EN.md) from this repository
+1. **Download** the source file from this repository
 2. **Review and customize** content as needed (focus on content changes to maintain functionality)
 3. **Open** your preferred M365 Copilot agent builder tool (Agent Builder is sufficient)
 4. **Configure** your agent:
