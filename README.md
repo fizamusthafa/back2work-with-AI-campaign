@@ -1,23 +1,33 @@
-# Back to Work Agent - Do It Smarter, Not Harder! 🚀
+## Back to Work Agent Campaign - Do It Smarter, Not Harder! 🚀
+**Current release:** v2.3 - massive improvements added - see [releasenotes](releasenotes.md)
 
-A complete back-to-work campaign repository to help you start 2026 energized and productive.
-Start with the "Campaign Overview" PDF in this repository to understand approach, contents and potential
+**Last Updated:** January 12, 2026 <br><br>
+
+
+### 2026 brings AI on every desk
+- Leverage the [Campaign Overview](Campaign%20Overview%20-%20Back%20to%20Work%202026%20-%20Do%20it%20smarter%20not%20harder.pdf)<br><br>
+- choose from **three deployment methods**
+  - **Agent Builder Agent** --> [raw source](https://github.com/JaysonBucket/back2work-with-AI-campaign/blob/main/Back%20to%20work%20agent%20v2.3%20-%20raw%20source.txt)
+  - Copilot **Studio declarative agent** --> [download the agent zip](https://github.com/JaysonBucket/back2work-with-AI-campaign/blob/main/Back%20to%20work%20agent%20v2.3%20-%20agent%20only.zip), then publish and pin for everyone
+  - Complete **Solution incl. automated notifications** --> [download complete solution](https://github.com/JaysonBucket/back2work-with-AI-campaign/blob/main/Back%20to%20Work%20v2.3%20-%20complete%20solution.zip) to import in Copilot Studio<br><br>
+- use [setup & deployment](Back%20to%20Work%20Agent%20-%20Setup%20and%20Deployment%20documentation.pdf) documentation to implement solution step by step
+- less than 60 minutes from download to finish
+- incorporate the [Safe AI with Copilot Chat Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path)
+<br><br>
+<img width="400" height="264" alt="Main Interaction Experience" src="https://github.com/user-attachments/assets/b91e8927-c51a-42c1-81dd-f652c87bd6f2" /> <br><br>
+<img width="400" height="217" alt="Proactive nudge in Teams Chat" src="https://github.com/user-attachments/assets/208c36db-7d11-425d-a7ef-1f6a989fe988" /> <br><br>
+
+
 
 ## 📦 What's Included
 
-- Agent source files
-- Agent icon
-- Agent image assets
-- complete howto including best practises, timeline and tech optimization hints
-- digital swag
-- digital Learning Path to use in your Learning Management System
+- Agent source files, icons, image assets, digital swag
+- complete [howto](Back%20to%20Work%20Agent%20-%20Setup%20and%20Deployment%20documentation.pdf)  including best practises, timeline and tech optimization hints
+- digital [Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path) to use in your Learning Management System
 
-**Current Version:** v1.2  --> moved start date to 15.01.2026 (but you can adjust yourself in the source)
-**Last Updated:** December 1, 2025
-
-<img width="609" height="367" alt="{0E46E65A-2A4B-425E-B458-2447E1CA8FEB}" src="https://github.com/user-attachments/assets/5e0ae2a8-2a14-427b-8cff-dbe78aa5fbaf" />
-<img width="683" height="380" alt="{181B7AEE-8898-4924-9ACE-478A89856EC5}" src="https://github.com/user-attachments/assets/294ed288-6c61-4925-90cd-fabb6d4264e6" />
-<img width="687" height="312" alt="{63C0F4AE-B175-49EE-B1EE-C5C6B9E865BF}" src="https://github.com/user-attachments/assets/f32e19dd-6dda-4346-8bbb-38e691032013" />
+<img width="400" height="241" alt="{0E46E65A-2A4B-425E-B458-2447E1CA8FEB}" src="https://github.com/user-attachments/assets/5e0ae2a8-2a14-427b-8cff-dbe78aa5fbaf" /><br>
+<img width="400" height="223" alt="{181B7AEE-8898-4924-9ACE-478A89856EC5}" src="https://github.com/user-attachments/assets/294ed288-6c61-4925-90cd-fabb6d4264e6" /><br>
+<img width="400" height="182" alt="{63C0F4AE-B175-49EE-B1EE-C5C6B9E865BF}" src="https://github.com/user-attachments/assets/f32e19dd-6dda-4346-8bbb-38e691032013" />
 
 
 ## 🎯 Quick Start
