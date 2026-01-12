@@ -31,6 +31,7 @@
   - admin_user --> string --> contains admin mailaddress to send status nudges in Teams Chat
   - testmode_enabled --> boolean --> exit logic in flow to prevent unwanted nudging during setup
   - nudging_enabled --> boolean --> exit logic in flow to prevent unwanted nudging
+  - nudge_group_id --> text --> contains Entra ID group id where all nudge receipients are in
   - campaign_start_date --> string --> exit logic in flow to prevent unwanted nudging outside campaign timeframe
   - campaign_end_date --> string --> exit logic in flow to prevent unwanted nudging outside campaign timeframe
   - agent_app_id --> string --> needed for nudging funtionality
