@@ -1,3 +1,27 @@
+## 13.01.2026 - released v2.4 solution package
+- now contains v3 nudging logic
+- removed premium connector to Entra
+- built solely on standard connectors now
+
+### Admin experience
+- added counter to message send action
+- flow status message now contains sent messages count <br><br>
+<img width="222" height="118" alt="image" src="https://github.com/user-attachments/assets/64da8dad-1959-4a18-a8fd-63d9b12d4047" /><br><br>
+
+### Solution variables & architecture
+- added connection entra_connect --> uses standard connector
+- simplified flow layout for 
+- removed connections
+ - excel_connect
+ - sharepoint_connect
+ - pre-authorized entra connection
+
+
+## 12.01.2026 - released v2.31 solution package
+- quick fix to get solution functional again, viable was missing
+
+### Solution variables & architecture
+- added environment variable group_id --> string --> contains nudge group id
 
 ## 12.01.2026 - released v2.3
 ### User experience
