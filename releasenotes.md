@@ -11,10 +11,8 @@
 ### Solution variables & architecture
 - added connection entra_connect --> uses standard connector
 - simplified flow layout for 
-- removed connections
- - excel_connect
- - sharepoint_connect
- - pre-authorized entra connection
+
+- removed connections: excel_connect, sharepoint_connect, pre-authorized entra connection <br><br>
 
 
 ## 12.01.2026 - released v2.31 solution package
