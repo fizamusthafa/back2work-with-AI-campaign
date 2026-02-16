@@ -7,7 +7,7 @@ description: "Setup and Deployment Documentation"
 baseurl: "/back2work-with-AI-campaign"
 url: "https://fizamusthafa.github.io"
 
-logo: "/back2work-with-AI-campaign/assets/images/logo.png"
+logo: "/assets/images/logo.png"
 
 aux_links:
   "GitHub Repo":
