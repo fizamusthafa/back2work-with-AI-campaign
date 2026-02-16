@@ -10,7 +10,8 @@
   - **Agent Builder Agent** --> [raw agent source](Back%20to%20work%20v2.3%20-%20raw%20agent%20source.txt)
   - Copilot **Studio declarative agent** --> [download the agent zip](Back%20to%20Work%20v2.3%20-%20agent%20only.zip), then publish and pin for everyone
   - **RECOMMENDED** 👉 Complete **Solution incl. automated notifications** --> [download complete solution](./Power%20Platform%20Solution/) <br><br>
-- use [setup & deployment video HowTo from YouTube](https://youtu.be/B2Ar3h18TAU) to implement solution step by step (setup guide PDF can't stand the pace of development)
+- 📖 **[Full Setup & Deployment Guide](https://jaysonbucket.github.io/back2work-with-AI-campaign/)** — step-by-step documentation with screenshots
+- use [setup & deployment video HowTo from YouTube](https://youtu.be/B2Ar3h18TAU) to implement solution step by step
 - less than 20 minutes from download to finish
 - incorporate the [Safe AI with Copilot Chat Learning Path](https://github.com/JaysonBucket/Copilot-Chat-Safe-AI-Learning-Path)<br><br>
 <img width="400" height="264" alt="Main Interaction Experience" src="https://github.com/user-attachments/assets/b91e8927-c51a-42c1-81dd-f652c87bd6f2" /> <br>
