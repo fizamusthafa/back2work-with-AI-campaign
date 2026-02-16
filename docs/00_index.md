@@ -35,7 +35,7 @@ This agent is part of the community project **"Back to Work Campaign"**, which a
 <h3>2 — Max Visibility, Centrally Deployed</h3>
 
 <ul>
-<li>Create as a declarative agent in Copilot Studio (<a href="import-solution">instructions in this document</a>)</li>
+<li>Create as a declarative agent in Copilot Studio (<a href="01-import-solution">instructions in this document</a>)</li>
 <li>Publish to the org agent library</li>
 <li>Deploy and pin centrally to every user</li>
 </ul>
@@ -68,8 +68,8 @@ Follow these steps in order to deploy the agent:
 
 | Step | Section | Description |
 |------|---------|-------------|
-| 1 | [Import Solution](import-solution) | Download and import the agent solution into Copilot Studio |
-| 2 | [Publish Agent](publish-agent) | Test, configure, and publish the agent to your organization |
-| 3 | [Admin Deploy & Pin](admin-deploy-pin) | Administrator approval, deployment, and pinning in M365 Copilot |
-| 4 | [Deploy & Pin in Teams](deploy-pin-teams) | Deploy and pin the agent in Microsoft Teams |
-| 5 | [Daily Nudge Setup](daily-nudge) | Configure the Power Automate flow for daily proactive outreach |
+| 1 | [Import Solution](01-import-solution) | Download and import the agent solution into Copilot Studio |
+| 2 | [Publish Agent](02-publish-agent) | Test, configure, and publish the agent to your organization |
+| 3 | [Admin Deploy & Pin](03-admin-deploy-pin) | Administrator approval, deployment, and pinning in M365 Copilot |
+| 4 | [Deploy & Pin in Teams](04-deploy-pin-teams) | Deploy and pin the agent in Microsoft Teams |
+| 5 | [Daily Nudge Setup](05-daily-nudge) | Configure the Power Automate flow for daily proactive outreach |

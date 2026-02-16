@@ -89,4 +89,4 @@ If you are the administrator — proceed to the next step!
 
 ---
 
-**Next:** [Administrator Approval, Deploy & Pin →](admin-deploy-pin)
+**Next:** [Administrator Approval, Deploy & Pin →](03-admin-deploy-pin)

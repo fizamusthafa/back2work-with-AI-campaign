@@ -94,4 +94,4 @@ You've been absolutely successful when the solution appears in the list of solut
 
 ---
 
-**Next:** [Test and Publish the Agent →](publish-agent)
+**Next:** [Test and Publish the Agent →](02-publish-agent)

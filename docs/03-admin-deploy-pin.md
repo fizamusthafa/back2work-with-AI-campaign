@@ -103,4 +103,4 @@ If it is not — click it and move it upwards. Click **Save** to proceed.
 
 ---
 
-**Next:** [Deploy & Pin in Teams →](deploy-pin-teams)
+**Next:** [Deploy & Pin in Teams →](04-deploy-pin-teams)
