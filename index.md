@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
+permalink: /
 ---
 
 # Back to Work Agent — Setup & Deployment
@@ -14,10 +15,10 @@ This agent is part of the community project **"Back to Work Campaign"**, which a
 
 ## Deployment Options
 
-<div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin: 2rem 0;">
+<div class="option-cards">
 
-<div style="flex: 1; min-width: 260px; border: 2px solid #0078d4; border-radius: 12px; padding: 1.5rem; background: #f0f7ff;">
-<h3 style="color: #0078d4;">1 — Easy & Free</h3>
+<div class="option-card blue">
+<h3>1 — Easy & Free</h3>
 
 <p>The easiest setup option — follow the instructions on GitHub. Set up in Agent Builder.</p>
 
@@ -30,8 +31,8 @@ This agent is part of the community project **"Back to Work Campaign"**, which a
 </ul>
 </div>
 
-<div style="flex: 1; min-width: 260px; border: 2px solid #107c41; border-radius: 12px; padding: 1.5rem; background: #f0fff4;">
-<h3 style="color: #107c41;">2 — Max Visibility, Centrally Deployed</h3>
+<div class="option-card green">
+<h3>2 — Max Visibility, Centrally Deployed</h3>
 
 <ul>
 <li>Create as a declarative agent in Copilot Studio (<a href="import-solution">instructions in this document</a>)</li>
@@ -43,8 +44,8 @@ This agent is part of the community project **"Back to Work Campaign"**, which a
 <p><strong>Cost:</strong> Solely declarative and web-grounded. Users with Copilot Chat (free) use it with minimal cost via pay-as-you-go. Users with M365 Copilot license use it for free.</p>
 </div>
 
-<div style="flex: 1; min-width: 260px; border: 2px solid #d83b01; border-radius: 12px; padding: 1.5rem; background: #fff8f0;">
-<h3 style="color: #d83b01;">3 — Max Impact with Daily Nudges ⭐ Recommended</h3>
+<div class="option-card orange">
+<h3>3 — Max Impact with Daily Nudges ⭐ Recommended</h3>
 
 <ul>
 <li>Create as a declarative agent in Copilot Studio</li>

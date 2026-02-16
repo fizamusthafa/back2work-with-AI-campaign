@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 plugins:
   - jekyll-remote-theme
 
@@ -7,10 +7,23 @@ description: "Setup and Deployment Documentation"
 baseurl: "/back2work-with-AI-campaign"
 url: "https://fizamusthafa.github.io"
 
-header_pages:
-  - index.md
-  - import-solution.md
-  - publish-agent.md
-  - admin-deploy-pin.md
-  - deploy-pin-teams.md
-  - daily-nudge.md
+logo: "/back2work-with-AI-campaign/assets/images/logo.png"
+
+color_scheme: custom
+
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/fizamusthafa/back2work-with-AI-campaign"
+
+aux_links_new_tab: true
+
+nav_sort: order
+
+search_enabled: true
+search:
+  heading_level: 3
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: 'Back to Work Campaign &mdash; Community project for AI adoption. <a href="https://github.com/fizamusthafa/back2work-with-AI-campaign">View on GitHub</a>'

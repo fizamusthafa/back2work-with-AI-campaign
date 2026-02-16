@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publish Agent
+title: Test & Publish Agent
 nav_order: 3
 ---
 

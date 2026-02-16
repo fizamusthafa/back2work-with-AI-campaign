@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Daily Nudge
+title: Daily Nudge Setup
 nav_order: 6
 ---
 
