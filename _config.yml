@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 plugins:
   - jekyll-remote-theme
 
@@ -7,7 +7,9 @@ description: "Setup and Deployment Documentation"
 baseurl: "/back2work-with-AI-campaign"
 url: "https://fizamusthafa.github.io"
 
-logo: "/assets/images/logo.png"
+logo: "/back2work-with-AI-campaign/assets/images/logo.png"
+
+color_scheme: custom
 
 aux_links:
   "GitHub Repo":
