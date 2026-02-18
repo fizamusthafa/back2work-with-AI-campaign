@@ -79,7 +79,7 @@ Purpose-built tools for extending agents with enterprise features including iden
 ### Microsoft Foundry SDK
 Unified access to AI models, agents, and tools for building intelligent applications at scale. Supports Python, C#, Java, and JavaScript/TypeScript with comprehensive authentication and deployment capabilities.
 
-[Learn more →](https://learn.microsoft.com/en-us/azure/ai-foundry/?view=foundry-classic)
+[Learn more →](https://learn.microsoft.com/en-us/azure/ai-foundry/)
 
 ### Power Apps SDK
 Developer tools and APIs for building and extending Power Platform applications, including custom connectors, component frameworks, and integration with Dataverse for enterprise data management.
