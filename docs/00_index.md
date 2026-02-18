@@ -62,6 +62,32 @@ This agent is part of the community project **"Back to Work Campaign"**, which a
 
 ---
 
+## Built With
+
+This solution leverages the following Microsoft SDKs and technologies:
+
+### Microsoft 365 Agents SDK
+A comprehensive framework for building full-stack, multi-channel AI agents that operate seamlessly across Microsoft 365 Copilot, Teams, and custom applications. Provides enterprise-grade identity, security, and governance for agent development.
+
+[Learn more →](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/)
+
+### Agent 365 SDK and CLI
+Purpose-built tools for extending agents with enterprise features including identity management, security, observability, and governed access to Microsoft 365 data. The CLI automates the development lifecycle from setup to deployment.
+
+[Learn more →](https://learn.microsoft.com/en-us/microsoft-agent-365/developer/)
+
+### Microsoft Foundry SDK
+Unified access to AI models, agents, and tools for building intelligent applications at scale. Supports Python, C#, Java, and JavaScript/TypeScript with comprehensive authentication and deployment capabilities.
+
+[Learn more →](https://learn.microsoft.com/en-us/azure/ai-foundry/?view=foundry-classic)
+
+### Power Apps SDK
+Developer tools and APIs for building and extending Power Platform applications, including custom connectors, component frameworks, and integration with Dataverse for enterprise data management.
+
+[Learn more →](https://learn.microsoft.com/en-us/power-platform/developer/)
+
+---
+
 ## Documentation Sections
 
 Follow these steps in order to deploy the agent:
